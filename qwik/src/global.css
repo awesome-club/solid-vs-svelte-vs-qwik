@@ -1,0 +1,10 @@
+body {
+  background: #21665E;
+  background: -webkit-linear-gradient(bottom left, #71C675, #21665E);
+  background: -moz-linear-gradient(bottom left, #71C675, #21665E);
+  background: linear-gradient(to top right, #71C675, #21665E);
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  padding: 0 30px;
+}
